@@ -1,6 +1,4 @@
-# VERIZON PYTHON AUTOMATION
 
-This report is to have full automation of multiple data sets from Securitas Inc and Verizon. On average the time needed to build the reports due to error in formula adjustments are 5 hours worked. By building the template in Python, the goal is to have all reports completed with a 30min window.
 
 
 ```python
